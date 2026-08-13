@@ -21,7 +21,7 @@
   "name": "Aditya Yadav",
   "role": "Full-Stack Developer In Training",
   "focus": ["Modern Web Apps", "Aesthetic UI/UX", "Open Source Exploration"],
-  "vibe": "Cyberpunk / Neon / Tokyo Night",
+  "vibe": "Newbie",
   "status": "Building cool stuff 🚀"
 }
 ```
