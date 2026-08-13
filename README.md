@@ -1,8 +1,4 @@
 <div align="center">
-
-<!-- Header Capsule -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7,bb9af7,ff007c&height=220&section=header&text=Aditya%20Yadav&fontSize=42&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Cyberpunk%20%26%20Open-Source%20Enthusiast&descAlignY=62&descAlign=50" width="100%" alt="Header Capsule" />
-
 <!-- Typing SVG Effect -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&background=00000000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+In+Training;Open+Source+Explorer;Cyberpunk+Aesthetics;Building+the+Future+of+Web" alt="Typing SVG" />
