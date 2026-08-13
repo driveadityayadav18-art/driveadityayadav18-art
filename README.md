@@ -42,11 +42,11 @@
 
 <div align="center">
   <a href="https://github.com/driveadityayadav18-art">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=driveadityayadav18-art&show_icons=true&theme=tokyonight&hide_border=true" height="175" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats-sigma.vercel.app/?user=driveadityayadav18-art&theme=tokyonight&hide_border=true" height="185" alt="Streak Stats" />
   </a>
   &nbsp;
   <a href="https://github.com/driveadityayadav18-art">
-    <img src="https://github-readme-streak-stats-sigma.vercel.app/?user=driveadityayadav18-art&theme=tokyonight&hide_border=true" height="175" alt="Streak Stats" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=driveadityayadav18-art&theme=tokyonight" height="185" alt="Profile Stats" />
   </a>
 </div>
 
@@ -54,7 +54,15 @@
 
 <div align="center">
   <a href="https://github.com/driveadityayadav18-art">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=driveadityayadav18-art&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=driveadityayadav18-art&theme=tokyo-night&hide_border=true&bg_color=1a1b26" width="100%" alt="Activity Graph" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/driveadityayadav18-art">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=driveadityayadav18-art&theme=tokyonight" width="100%" alt="Profile Details" />
   </a>
 </div>
 
