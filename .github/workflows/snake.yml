@@ -1,35 +1,40 @@
 name: Generate Snake Contribution Animation
 
 on:
+  # Daily cron schedule at midnight (00:00 UTC)
   schedule:
-    # Run every 12 hours
-    - cron: "0 */12 * * *"
+    - cron: "0 0 * * *"
   
-  # Allows to manually run the Job at any time
-  workflow_dispatch:
-  
-  # Run on every push to main
+  # Trigger on push to main branch
   push:
     branches:
       - main
+      
+  # Allows manual triggering anytime from GitHub Actions tab
+  workflow_dispatch:
+
+# Ensure workflow can write to repository branch
+permissions:
+  contents: write
 
 jobs:
   generate:
-    permissions:
-      contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
 
     steps:
-      - name: Generate github-contribution-grid-snake.svg
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub Contribution Snake Animation (Zesty Lemon Palette)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#FFFF66&color_dots=#0D1117,#D6D58B,#B3B347,#FFE566,#FFFF66
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#FFFF66&color_dots=#0D1117,#D6D58B,#B3B347,#FFE566,#FFFF66
 
-      - name: Push github-contribution-grid-snake.svg to output branch
+      - name: Deploy Snake SVG to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
