@@ -1,10 +1,14 @@
 <div align="center">
 
+<!-- Hero Soothing Waving Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,65:1C2214,100:B3B347&height=180&section=header" width="100%" alt="Header Wave" />
+
 <!-- Typing SVG Header (Cinzel / Zesty Lemon) -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=24&duration=4000&pause=1000&color=FFFF66&background=0D111700&center=true&vCenter=true&width=750&lines=%E2%96%B8+INITIALIZING+ARCHITECTURE...;%E2%96%B8+ADITYA+YADAV+%2F%2F+FULL-STACK+%26+SYSTEMS+ENGINEER;%E2%96%B8+CRAFTING+HIGH-PERFORMANCE+WEB+%26+AI+PLATFORMS" alt="Typing SVG Header" />
 </a>
 
+<br/>
 
 <!-- Technical Status Badges (Zesty Lemon Palette) -->
 <p align="center">
@@ -15,6 +19,11 @@
   <img src="https://img.shields.io/badge/ENGINE-AI%20%26%20DISTRIBUTED-D6D58B?style=for-the-badge&logo=databricks&logoColor=0D1117&labelColor=0D1117" alt="Engine Focus" />
   &nbsp;
   <img src="https://img.shields.io/badge/NODE-CYBERSPACE-B3B347?style=for-the-badge&logo=googlemaps&logoColor=0D1117&labelColor=0D1117" alt="Location Node" />
+</p>
+
+<!-- Live Telemetry Visitor Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=driveadityayadav18-art&label=SYSTEM_VISITORS&color=FFFF66&style=flat-square&labelColor=0D1117" alt="System Visitors" />
 </p>
 
 </div>
@@ -103,7 +112,7 @@
 
 ---
 
-###`> deployed_systems.exe`
+### `> deployed_systems.exe`
 
 | System / Project | Architecture & Stack | Links & Deployment |
 | :--- | :--- | :--- |
@@ -131,6 +140,9 @@
 </div>
 
 <br/>
+
+<!-- Footer Soothing Dynamic Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,65:1C2214,100:B3B347&height=120&section=footer" width="100%" alt="Footer Wave" />
 
 <div align="center">
   <sub>Engineered with ⚡ by <a href="https://github.com/driveadityayadav18-art">Aditya Yadav</a></sub>
